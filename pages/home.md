@@ -1,15 +1,15 @@
 ---
 layout: home
 permalink: "/"
-title: "Jekyll Advance"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+title: "ICDM 2024"
+description: "The world’s premier research conference in Data Mining!"
 header_transparent: true
-meta_title: Jekyll Advance - Premium Jekyll Theme
+meta_title: ICDM 2024, International Conference on Data Mining 
 
 hero:
   enabled: true
-  heading: "Jekyll Advance"
-  sub_heading: "Built using highly configurable sections, Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  heading: "ICDM 2024"
+  sub_heading: "The world’s premier research conference in Data Mining! <br/> 9-12 December 2024, Abu Dhabi, UAE"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true

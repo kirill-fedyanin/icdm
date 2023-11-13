@@ -1,3 +1,4 @@
-- switch logo
-- add
-- ga
+- purge main
+- purge navigation
+- change image
+- outline section

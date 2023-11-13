@@ -149,7 +149,7 @@ darkmode:
   show_dark_mode_toggle_in_mobile_menu: true
 
 analytics:
-  google_analytics_id: ""
+  google_analytics_id: "G-T2EGB4B8QS"
 
 disqus:
   shortname: "" # Your disqus shortcode. leave this blank to disable comments globally
