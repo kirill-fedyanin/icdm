@@ -2,6 +2,10 @@ main:
   - name: Home
     url: /
     weight: 1
+  - name: Dates
+    url: /dates
+    weight: 2
+
 #  - name: Services
 #    url: /services/
 #    weight: 1
