@@ -81,7 +81,7 @@ exclude:
 # -------------------
 # Theme Config
 # --------------------
-title: "Jekyll Advance"
+title: "ICDM 2024"
 category_dir: category
 
 colors:
@@ -119,7 +119,7 @@ fonts:
   logo: "Lato"
 
 logo:
-  logo_text: "Jekyll Advance"
+  logo_text: "icdm 2024"
   logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
@@ -143,7 +143,7 @@ header:
   fixed: true
 
 darkmode:
-  enable_dark_mode: true
+  enable_dark_mode: false
   show_dark_mode_toggle_in_header: false
   show_dark_mode_toggle_in_bottom: true
   show_dark_mode_toggle_in_mobile_menu: true
@@ -168,22 +168,22 @@ menu:
   show_social_media_in_mobile_menu: true
 
 footer:
-  enable_footer: true # show/hide the entire footer
-  footer_title: "Jekyll Advance"
-  footer_description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
-  enable_social_media_icons: true
-  enable_contact_details: true
-  enable_menu_footer_primary: true
-  enable_menu_footer_secondary: true
-  enable_menu_footer_tertiary: true
+  enable_footer: false # show/hide the entire footer
+  footer_title: "ICDM 2024"
+  footer_description: "Internation On Data Mining"
+  enable_social_media_icons: false
+  enable_contact_details: False
+  enable_menu_footer_primary: false
+  enable_menu_footer_secondary: false
+  enable_menu_footer_tertiary: false
   footer_primary_menu_title: "Product"
   footer_secondary_menu_title: "Company"
   footer_tertiary_menu_title: "Other"
 
 bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)
-  enable_bottom_menu: true # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2021 Zerostatic Themes"
+  enable_bottom_menu: false # if enabled, the bottom menu can be edited in `_data/menu.yml`
+  copyright_text: "© 2024 ICDM"
 
 sidebar:
   enable_sidebar_services: true
