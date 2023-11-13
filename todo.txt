@@ -1,4 +1,3 @@
-- purge main
-- purge navigation
-- change image
 - outline section
+- move existing
+- deploy
