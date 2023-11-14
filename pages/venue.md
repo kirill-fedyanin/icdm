@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: banner 
 #collection: "projects"
 title: Venue 
 description: "ADNEC - Abu Dhabi National Exhibition Centre"
