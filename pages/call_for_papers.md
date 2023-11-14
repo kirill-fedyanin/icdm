@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: "Calls for papers"
+title: "Call for papers"
 ---
 
 ## Aims and Scope

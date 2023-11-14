@@ -1,11 +1,19 @@
-- move the images
-- committee
-- fill every with placeholder
+- call for workshops
+- venue
+- registration
+- local information
 - main page links
+- guideline
 - deploy
 
 
-rewrite dates and instructions
+- fill actual dates
+- need an actual list for comittee, with short description/affiliation and photo (preferably square)
+- I took description for calls from 2023, it needs to be checked and links need to be updates.
+
+
+most important
+dates, links to submisstion and registration, committee data, venue data
 
 
 Honorary Co-Chairs
