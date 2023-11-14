@@ -47,13 +47,13 @@ blocks:
       description: 'Important dates: submission, registration, conference'
       icon: 'assets/images/icons/icons8-calendar-9-100.png'
       
-    - title: 'Call for paper'
+    - title: 'Call for papers'
       weight: 2
       url: '/call_for_paper'
       description: 'Please find the submission guides and topic overview for the conference'
       icon: 'assets/images/icons/icons8-paper-100.png'
       
-    - title: 'Call for workshop'
+    - title: 'Call for workshops'
       weight: 3
       url: '/call_for_workshops'
       description: 'We warmly invite proposals for workshops on current and emerging topics in data mining'

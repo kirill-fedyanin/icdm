@@ -82,3 +82,8 @@ html[data-mode='dark'] {
 }
 
 @import 'style';
+
+html {
+    visibility: visible;
+    opacity: 1;
+}
