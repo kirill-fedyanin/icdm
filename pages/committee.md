@@ -36,69 +36,71 @@ grid:
 
 
 
-### Honorary Co-Chairs
-#Fakhri Karray
-#MBZUAI, UAE
-#
-#Fakhri Karray
-#Horst Simon
-#ADIA, UAE
-#Horst Simon
-#
-#General Co-Chairs
-#
-#Merouane Debbah
-#TII, UAE
-#Merouane Debbah
-#Panos Kalnis
-#KAUST, KSA
-#Panos Kalnis
-#Ernesto Damiani
-#Khalifa University, UAE
-#Ernesto Damiani
-#Program Committee Co-Chairs
-#Elena Baralis
-#Politecnico di Torino, Italy
-#Elena Baralis
-#Kun Zhang
-#MBZUAI, UAE
-#Kun Zhang
-#Local Arrangement Co-Chairs
-#Hakim Hacid
-#TII, UAE
-#Hakim Hacid
-#Maxim Panov
-#TII, UAE
-#Maxim Panov
-#Workshop Co-Chairs
-#Athena Vakali
-#Aristotle University, Greece
-#Athena Vakali
-#Ebtesam Almazrouei
-#TII, UAE
-#Ebtesam Almazrouei
-#Phd Forum Co-Chairs
-#Odej Kao
-#TU Berlin, Germany
-#Odej Kao
-#Tutorial Co-Chairs
-#Sanjay Chawla
-#QCRI, Qatar
-#Sanjay Chawla
-#Sunil Aryal
-#Deakin University, Australia
-#Sunil Aryal
-#Demonstrations Co-Chairs
-#Reda Bouadjenek
-#Deakin University, Australia
-#Reda Bouadjenek
-#Eleana Kafeza
-#Zayed University, UAE
-#Eleana Kafeza
-#Webmaster Chair
-#Daniele Mazzotta
-#TII, UAE
-#Daniele Mazzotta
+# Honorary Co-Chairs
+Fakhri Karray
+MBZUAI, UAE
+
+Horst Simon
+ADIA, UAE
+
+General Co-Chairs
+Merouane Debbah
+TII, UAE
+
+Panos Kalnis
+KAUST, KSA
+
+Ernesto Damiani
+Khalifa University, UAE
+
+Program Committee Co-Chairs
+
+Elena Baralis
+Politecnico di Torino, Italy
+
+Kun Zhang
+MBZUAI, UAE
+
+Local Arrangement Co-Chairs
+
+Hakim Hacid
+TII, UAE
+
+Maxim Panov
+TII, UAE
+
+Workshop Co-Chairs
+
+Athena Vakali
+Aristotle University, Greece
+
+Ebtesam Almazrouei
+TII, UAE
+
+Phd Forum Co-Chairs
+
+Odej Kao
+TU Berlin, Germany
+
+Tutorial Co-Chairs
+
+Sanjay Chawla
+QCRI, Qatar
+
+Sunil Aryal
+Deakin University, Australia
+
+Demonstrations Co-Chairs
+
+Reda Bouadjenek
+Deakin University, Australia
+
+Eleana Kafeza
+Zayed University, UAE
+
+Webmaster Chair
+Kirill Fedyanin
+TII, UAE
 
 ---
 

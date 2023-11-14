@@ -37,19 +37,45 @@ hero:
         style: "light"
         
 blocks:
-  heading: 'Important links'
+  heading: ''
   sub_heading: ''
-  list:
+  limit: 6
+  items:
     - title: 'Dates'
       weight: 1
       url: '/dates'
       description: 'Important dates: submission, registration, conference'
-      icon: ''
+      icon: 'assets/images/icons/icons8-calendar-9-100.png'
       
-    - title: 'Registration'
+    - title: 'Call for paper'
       weight: 2
+      url: '/call_for_paper'
+      description: 'Please find the submission guides and topic overview for the conference'
+      icon: 'assets/images/icons/icons8-paper-100.png'
+      
+    - title: 'Call for workshop'
+      weight: 3
+      url: '/call_for_workshops'
+      description: 'We warmly invite proposals for workshops on current and emerging topics in data mining'
+      icon: 'assets/images/icons/icons8-workshop-100.png'
+
+    - title: 'Registration'
+      weight: 4
       url: '/registration'
-      description: 'Registration guide'
-      icon: ''
+      description: 'Find details how to register to the conference'
+      icon: 'assets/images/icons/icons8-registration-100.png'
+
+    - title: 'Venue'
+      weight: 5
+      url: '/venue'
+      description: 'Details about conference place'
+      icon: 'assets/images/icons/icons8-venue-100.png'
+
+    - title: 'Organizing Committee'
+      weight: 6
+      url: '/committee'
+      description: 'Meet the experts behind the event'
+      icon: 'assets/images/icons/icons8-comittee-100.png'
+
 
 ---

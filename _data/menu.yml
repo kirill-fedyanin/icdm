@@ -13,7 +13,7 @@ main:
       - name: 'Local information'
         url: /local_info
   - name: Calls
-    url: /calls_for_papers
+    url: /call_for_papers
     child:
       - name: 'Call for papers'
         url: /call_for_papers
