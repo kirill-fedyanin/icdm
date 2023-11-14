@@ -88,7 +88,7 @@ grid:
         - title: 'Odej Kao'
           weight: 1
           description: "TU Berlin, Germany"
-          thumbnail: "/assets/images/team/.png"
+          thumbnail: "/assets/images/team/odej.png"
     - name: Tutorial Co-Chairs
       people:
         - title: 'Sanjay Chawla'
