@@ -1,10 +1,28 @@
 main:
   - name: Home
     url: /
-    weight: 1
   - name: Dates
     url: /dates
-    weight: 2
+  - name: Attending
+    url: /venue
+    child:
+      - name: 'Venue'
+        url: /venue
+      - name: 'Registration'
+        url: /registration
+      - name: 'Local information'
+        url: /local_info
+  - name: Calls
+    url: /calls_for_papers
+    child:
+      - name: 'Calls for papers'
+        url: /calls_for_papers
+      - name: 'Calls for workshops'
+        url: /calls_for_workshops
+  - name: Committee
+    url: /committee
+
+
 
 #  - name: Services
 #    url: /services/

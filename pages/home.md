@@ -2,14 +2,14 @@
 layout: home
 permalink: "/"
 title: "ICDM 2024"
-description: "The world’s premier research conference in Data Mining!"
+description: "The world’s premier research conference in Data Mining"
 header_transparent: true
 meta_title: ICDM 2024, International Conference on Data Mining 
 
 hero:
   enabled: true
   heading: "ICDM 2024"
-  sub_heading: "The world’s premier research conference in Data Mining! <br/> 9-12 December 2024, Abu Dhabi, UAE"
+  sub_heading: "The world’s premier research conference in Data Mining <br/> 9-12 December 2024, Abu Dhabi, UAE"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false 
@@ -21,15 +21,15 @@ hero:
   buttons:
     enabled: false
     list:
-      - text: "Buy Now"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
+      - text: "Hello"
+        url: ""
         external: true
         fa_icon: false
         size: large # "small", "normal", "large"
         outline: false
         style: "light" # "light", "dark", "primary"
       - text: "Documentation"
-        url: "https://www.zerostatic.io/docs/jekyll-advance/v2.0/"
+        url: "https://tii.ae"
         external: true
         fa_icon: false
         size: large

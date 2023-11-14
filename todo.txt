@@ -1,19 +1,7 @@
-- make simple page
-- outline section
-- move existing
+- committee
+- fill every with placeholder
+- main page links
 - deploy
-
-what pages should we have?
-
-dates
-committee
-calls
-- call for paper
-attending:
-- venue
-- registration
-program
-contact
 
 
 rewrite dates and instructions

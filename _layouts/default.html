@@ -12,11 +12,11 @@
     <link href="https://fonts.gstatic.com" rel="preconnect">
     <link href="{{ site.fonts.google_fonts }}" rel="stylesheet">
 
-    {% if site.darkmode.enable_dark_mode != false %}
-      <script>
-          localStorage.getItem('darkMode') === 'true' && document.documentElement.setAttribute('data-mode', 'dark');
-      </script>
-    {% endif %}
+<!--    {% if site.darkmode.enable_dark_mode != false %}-->
+<!--      <script>-->
+<!--          localStorage.getItem('darkMode') === 'true' && document.documentElement.setAttribute('data-mode', 'dark');-->
+<!--      </script>-->
+<!--    {% endif %}-->
 
   </head>
 <body class="page {% if page.body_classes %}{{ page.body_classes }}{% elsif layout.body_classes %}{{ layout.body_classes }}{% endif %}{% if site.header.fixed %} has-fixed-header{% else %} has-static-header{% endif %}">
@@ -41,7 +41,7 @@
   <script type="text/javascript" src="{{ '/assets/js/header.js' | relative_url }}"></script>
 {% endif %}
 <script type="text/javascript" src="{{ '/assets/js/hamburger.js' | relative_url }}"></script>
-<script type="text/javascript" src="{{ '/assets/js/darkModeSwitch.js' | relative_url }}"></script>
+<!--<script type="text/javascript" src="{{ '/assets/js/darkModeSwitch.js' | relative_url }}"></script>-->
 
 {% include framework/global/seo/google-analytics.html %}
 
