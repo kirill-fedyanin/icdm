@@ -18,57 +18,39 @@ body_classes: page-list
 %}
 
 
-{% assign cards = site[page.grid.collection] | sort: 'date' | reverse %}
-{% assign limit = page.grid.limit | default: nil %}
-{% assign sort_by = page.grid.sort_by | default: 'date' %}
-{% assign columns =  page.grid.columns | default: 3 %}
-{% capture columns %}col-lg-{{ 12 | divided_by:columns }}{% endcapture %}
-{% if sort_by == 'weight' %}
-  {% assign cards = cards | sort: 'weight' %}
-{% endif %}
-{% assign card_type = page.grid.collection %}
+{% assign columns =  page.grid.columns%}
+{% assign sections = page.grid.sections %}
 
-{% if cards.size > 0 %}
+
+
 <div class="section">
   <div class="container">
     <div class="row">
+      {% for section in sections %}
 
-      {% include framework/blocks/components/grid-header.html
-        heading=page.grid.heading
-        sub_heading=page.grid.sub_heading
-        align="center"
-      %}
-      
-      {% for card in cards limit: limit %}
+        {% include framework/blocks/components/grid-header.html
+          heading=section.name
+          align="center"
+        %}
+        {% assign cards = section.people %}
 
-        {% assign url = card.url %}
-        {% if page.grid.prevent_click %}
-          {% assign url = null %}
-        {% endif %}
-        
-        <div class="col-12 col-md-4 {{ columns }} {% if forloop.first %}mt-0{% endif %} {% if forloop.last %}mb-0{% endif %} mb-3 mb-md-6">
-          {% include theme/cards/card-{{ card_type | strip }}.html
-            title=card.title 
-            description=card.description
-            fa_icon=card.fa_icon
-            icon=card.icon
-            thumbnail=card.thumbnail
-            image=card.image
-            url=url 
-            weight=card.weight
-            jobtitle=card.jobtitle
-            links=card.links
-          %}
-        </div>
+        {% for card in cards limit: limit %}
+          <div class="col-12 col-md-3 {{ columns }} {% if forloop.first %}mt-0{% endif %} {% if forloop.last %}mb-0{% endif %} mb-3 mb-md-6">
+            {% include theme/cards/card-team.html
+              title=card.title
+              description=card.description
+              thumbnail=card.thumbnail
+              weight=card.weight
+              links=card.links
+            %}
+          </div>
+        {% endfor %}
+
+
+        {% include framework/blocks/components/grid-footer.html
+          align="right"
+        %}
       {% endfor %}
-
-      {% include framework/blocks/components/grid-footer.html 
-        view_more_button_text=page.grid.view_more_button_text
-        view_more_button_link=page.grid.view_more_button_link
-        align="right"
-      %}
-
     </div>
   </div>
 </div>
-{% endif %}
