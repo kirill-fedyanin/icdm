@@ -45,14 +45,19 @@ grid:
           
     - name: General Co-Chairs
       people:
-        - title: 'Panos Kalnis'
+        - title: 'Merouane Debbah'
           weight: 1
+          description: "Khalifa University, UAE"
+          thumbnail: "/assets/images/team/merouane.png"
+        - title: 'Panos Kalnis'
+          weight: 2
           description: "KAUST, KSA"
           thumbnail: "/assets/images/team/panos.png"
         - title: 'Ernesto Damiani'
-          weight: 2
+          weight: 3
           description: "Khalifa University, UAE"
           thumbnail: "/assets/images/team/ernesto.png"
+          
     - name:  Program Committee Co-Chairs
       people:
         - title: 'Elena Baralis'

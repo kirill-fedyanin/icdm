@@ -75,7 +75,7 @@ blocks:
       weight: 6
       url: '/committee'
       description: 'Meet the experts behind the event'
-      icon: 'assets/images/icons/icons8-comittee-100.png'
+      icon: 'assets/images/icons/icons8-committee-100.png'
 
 
 ---
