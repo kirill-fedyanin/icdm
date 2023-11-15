@@ -68,6 +68,58 @@ grid:
           weight: 2
           description: "MBZUAI, UAE"
           thumbnail: "/assets/images/team/kun.png"
+          
+    - name: Local Arrangement Co-Chairs 
+      people:
+        - title: 'Hakim Hacid'
+          weight: 1
+          description: "TII, UAE"
+          thumbnail: "/assets/images/team/hakim.png"
+        - title: 'Maxim Panov'
+          weight: 2
+          description: "MBZUAI, UAE"
+          thumbnail: "/assets/images/team/maxim.png"
+
+    - name: Workshop Co-Chairs
+      people:
+        - title: 'Athena Vakali'
+          weight: 1
+          description: "Aristotle University, Greece"
+          thumbnail: "/assets/images/team/athena.png"
+        - title: 'Ebtesam Almazrouei'
+          weight: 2
+          description: "TII, UAE"
+          thumbnail: "/assets/images/team/ebtesam.png"
+          
+    - name: Phd Forum Co-Chairs
+      people:
+        - title: 'Odej Kao'
+          weight: 1
+          description: "TU Berlin, Germany"
+          thumbnail: "/assets/images/team/odej.png"
+          
+    - name: Tutorial Co-Chairs
+      people:
+        - title: 'Sanjay Chawla'
+          weight: 1
+          description: "QCRI, Qatar"
+          thumbnail: "/assets/images/team/sanjay.png"
+        - title: 'Sunil Aryal'
+          weight: 2
+          description: "Deakin University, Australia"
+          thumbnail: "/assets/images/team/sunil.png"
+          
+    - name: Demonstrations Co-Chairs
+      people:
+        - title: 'Reda Bouadjenek'
+          weight: 1
+          description: "Deakin University, Australia"
+          thumbnail: "/assets/images/team/reda.png"
+        - title: 'Eleana Kafeza'
+          weight: 1
+          description: "Zayed University, UAE"
+          thumbnail: "/assets/images/team/eleana.png"
+          
     - name:  Publicity Co-Chairs
       people:
         - title: 'Antonio De Domenico'
@@ -82,54 +134,7 @@ grid:
           weight: 3
           description: "Harvard"
           thumbnail: "/assets/images/team/min.png"
-         
 
-    - name: Local Arrangement Co-Chairs 
-      people:
-        - title: 'Hakim Hacid'
-          weight: 1
-          description: "TII, UAE"
-          thumbnail: "/assets/images/team/hakim.png"
-        - title: 'Maxim Panov'
-          weight: 2
-          description: "MBZUAI, UAE"
-          thumbnail: "/assets/images/team/maxim.png"
-    - name: Workshop Co-Chairs
-      people:
-        - title: 'Athena Vakali'
-          weight: 1
-          description: "Aristotle University, Greece"
-          thumbnail: "/assets/images/team/athena.png"
-        - title: 'Ebtesam Almazrouei'
-          weight: 2
-          description: "TII, UAE"
-          thumbnail: "/assets/images/team/ebtesam.png"
-    - name: Phd Forum Co-Chairs
-      people:
-        - title: 'Odej Kao'
-          weight: 1
-          description: "TU Berlin, Germany"
-          thumbnail: "/assets/images/team/odej.png"
-    - name: Tutorial Co-Chairs
-      people:
-        - title: 'Sanjay Chawla'
-          weight: 1
-          description: "QCRI, Qatar"
-          thumbnail: "/assets/images/team/sanjay.png"
-        - title: 'Sunil Aryal'
-          weight: 2
-          description: "Deakin University, Australia"
-          thumbnail: "/assets/images/team/sunil.png"
-    - name: Demonstrations Co-Chairs
-      people:
-        - title: 'Reda Bouadjenek'
-          weight: 1
-          description: "Deakin University, Australia"
-          thumbnail: "/assets/images/team/reda.png"
-        - title: 'Eleana Kafeza'
-          weight: 1
-          description: "Zayed University, UAE"
-          thumbnail: "/assets/images/team/eleana.png"
     - name: Web Chair
       people:
         - title: 'Kirill Fedyanin'
