@@ -68,6 +68,22 @@ grid:
           weight: 2
           description: "MBZUAI, UAE"
           thumbnail: "/assets/images/team/kun.png"
+    - name:  Publicity Co-Chairs
+      people:
+        - title: 'Antonio De Domenico'
+          weight: 1
+          description: "Huawei"
+          thumbnail: "/assets/images/team/antonio.png"
+        - title: 'Hai Dong'
+          weight: 2
+          description: "RMIT"
+          thumbnail: "/assets/images/team/hai.png"
+        - title: 'Min Shi'
+          weight: 3
+          description: "Harvard"
+          thumbnail: "/assets/images/team/min.png"
+         
+
     - name: Local Arrangement Co-Chairs 
       people:
         - title: 'Hakim Hacid'
