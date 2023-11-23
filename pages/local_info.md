@@ -24,7 +24,7 @@ Abu Dhabi, the capital of the United Arab Emirates, offers a unique blend of ric
 
 ### Practical Information:
 - Weather in December: Typically warm and sunny, with temperatures ranging from 17°C to 26°C (62°F to 79°F).
-- Transportation: taxi in Abu Dhabi is the most reliable option to get around the city. Most popular are careem, abu dhabi taxi and uber. You can also take abu-dhabi taxi from street (they use taxi meter and you can pay with card). 
+- Transportation: taxi in Abu Dhabi is the most reliable option to get around the city. Most popular are careem, abu dhabi taxi and uber. You can also take Abu Dhabi taxi from street (they use taxi meter, and you can pay with card). 
 - You can fly to Abu-Dhabi international airport (AUH). As an option, you can fly to dubai (DXB), taxi from there takes approximately 1.5 hours and $100.
  
 ### Places to visit
