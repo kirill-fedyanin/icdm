@@ -97,6 +97,11 @@ grid:
           weight: 1
           description: "TU Berlin, Germany"
           thumbnail: "/assets/images/team/odej.png"
+        - title: 'Wenbin Zhang'
+          weight: 2
+          description: "FIU, USA"
+          thumbnail: "/assets/images/team/wenbin.png"
+          
           
     - name: Tutorial Co-Chairs
       people:
@@ -124,15 +129,15 @@ grid:
       people:
         - title: 'Antonio De Domenico'
           weight: 1
-          description: "Huawei"
+          description: "Huawei, France"
           thumbnail: "/assets/images/team/antonio.png"
         - title: 'Hai Dong'
           weight: 2
-          description: "RMIT"
+          description: "RMIT, Australia"
           thumbnail: "/assets/images/team/hai.png"
         - title: 'Min Shi'
           weight: 3
-          description: "Harvard"
+          description: "Harvard, USA"
           thumbnail: "/assets/images/team/min.png"
 
     - name: Web Chair
