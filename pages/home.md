@@ -49,7 +49,7 @@ blocks:
       
     - title: 'Call for papers'
       weight: 2
-      url: '/call_for_paper'
+      url: '/call_for_papers'
       description: 'Please find the submission guidelines and topic overview for the conference'
       icon: 'assets/images/icons/icons8-paper-100.png'
       
