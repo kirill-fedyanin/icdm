@@ -27,7 +27,7 @@ For each accepted paper, at least one author is required to pay a full author re
 | Student & Non-Member | TBD |	
 
 
-#### Non-Authors, or Co-Authors not registering a paper (Due October 11 After September 27)
+#### Non-Authors, or Co-Authors not registering a paper (After September 27, Due October 11, 2024)
 
 | Type                 | Fee |
 |----------------------|-----|
