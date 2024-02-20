@@ -86,10 +86,6 @@ grid:
           weight: 1
           description: "Aristotle University, Greece"
           thumbnail: "/assets/images/team/athena.png"
-        - title: 'Ebtesam Almazrouei'
-          weight: 2
-          description: "TII, UAE"
-          thumbnail: "/assets/images/team/ebtesam.png"
           
     - name: Phd Forum Co-Chairs
       people:
