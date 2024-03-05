@@ -82,10 +82,14 @@ grid:
 
     - name: Workshop Co-Chairs
       people:
-        - title: 'Athena Vakali'
+        - title: 'Wassim Hamidouche'
           weight: 1
-          description: "Aristotle University, Greece"
-          thumbnail: "/assets/images/team/athena.png"
+          description: "TII, UAE"
+          thumbnail: "/assets/images/team/wassim.png"
+        - title: 'Imran Razzak'
+          weight: 2
+          description: "UNSW, Australia"
+          thumbnail: "/assets/images/team/imran.png"
           
     - name: Phd Forum Co-Chairs
       people:
@@ -143,6 +147,12 @@ grid:
           description: "TII, UAE"
           thumbnail: "/assets/images/team/kirill.png"
 
+    - name: Sponsorhsip chair
+      people:
+        - title: 'Meikang Qiu'
+          weight: 1
+          description: "Pace University, USA"
+          thumbnail: "/assets/images/team/meikang.png"
 ---
 
 
