@@ -151,7 +151,7 @@ grid:
       people:
         - title: 'Meikang Qiu'
           weight: 1
-          description: "Pace University, USA"
+          description: "Augusta University, USA"
           thumbnail: "/assets/images/team/meikang.png"
 ---
 
