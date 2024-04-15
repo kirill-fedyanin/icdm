@@ -46,6 +46,8 @@ Algorithms and resources used in a paper should be described as completely as po
 
 Accepted papers will be published in the conference proceedings by the IEEE Computer Society Press. All manuscripts are submitted as full papers and are reviewed based on their scientific merit. There is no separate abstract submission step. There are no separate industrial, application, short paper or poster tracks during submission. Manuscripts must be submitted electronically in the online submission system ([https://www.wi-lab.com/cyberchair/2024/icdm24/scripts/submit.php?subarea=DM](https://www.wi-lab.com/cyberchair/2024/icdm24/scripts/submit.php?subarea=DM)). We do not accept email submissions. 
 
+
+
 #### Reproducibility guidelines
 
 Authors must complete a reproducibility checklist at the time of paper submission [the questions in PDF format](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist-v2.0.pdf). Authors are strongly recommended to start thinking about these questions already when writing the paper and to fill in the questionnaire well in time before the submission deadline. These responses will become part of each paper submission and will be shared with the area chairs and/or reviewers to help them in the evaluation process. Authors are encouraged to include in their papers all technical details (proofs, descriptions of assumptions, algorithm pseudocode) as well as information about each reproducibility criterion, as appropriate. Reviewers will be asked to assess the degree to which the results reported in a paper are reproducible, and this assessment will be weighed when making final decisions about each paper. 

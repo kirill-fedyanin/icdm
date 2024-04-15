@@ -19,6 +19,8 @@ main:
         url: /call_for_papers
       - name: 'Call for workshops'
         url: /call_for_workshops
+      - name: 'Sponsorship Prospectus'
+        url: '/assets/ICDM_Prospectus.pdf'
   - name: Committee
     url: /committee
 
