@@ -3,6 +3,8 @@ main:
     url: /
   - name: Dates
     url: /dates
+  - name: Workshops
+    url: /workshops
   - name: Attending
     url: /venue
     child:

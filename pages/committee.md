@@ -68,6 +68,12 @@ grid:
           weight: 2
           description: "MBZUAI, UAE"
           thumbnail: "/assets/images/team/kun.png"
+    - name: Steering Committee Chair
+      people:
+        - title: 'Xindong Wu'
+          weight: 1
+          description: "Hefei University of Technology, China"
+          thumbnail: "/assets/images/team/xindong.png"
           
     - name: Local Arrangement Co-Chairs 
       people:

@@ -30,7 +30,7 @@ Paper submissions should be limited to a maximum of ten (10) pages, in the IEEE 
 
 #### Triple-blind submission guidelines
 
-Since 2011, ICDM has imposed a triple-blind submission and review policy for all submissions. Authors must hence not use identifying information in the text of the paper and bibliographies must be referenced to preserve anonymity. Any papers available on the Web (including arXiv) no longer qualify for ICDM submissions, as their author information is already public. 
+Since 2011, ICDM has imposed a triple-blind submission and review policy for all submissions. Authors must hence not use identifying information in the text of the paper and bibliographies must be referenced to preserve anonymity.
 
 #### What is triple-blind reviewing?
 
