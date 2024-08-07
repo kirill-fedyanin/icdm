@@ -23,6 +23,8 @@ main:
         url: /call_for_workshops
       - name: 'Sponsorship Prospectus'
         url: '/assets/ICDM_Prospectus.pdf'
+      - name: 'Call for travel awards'
+        url: /call_for_travel_awards
   - name: Committee
     url: /committee
 

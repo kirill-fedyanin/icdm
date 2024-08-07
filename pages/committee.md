@@ -159,6 +159,13 @@ grid:
           weight: 1
           description: "Augusta University, USA"
           thumbnail: "/assets/images/team/meikang.png"
+
+    - name: Registration chair
+      people:
+        - title: 'Evgenii Tsymbalov'
+          weight: 1
+          description: "Apptek, Germany"
+          thumbnail: "/assets/images/team/evgenii.jpg"
 ---
 
 

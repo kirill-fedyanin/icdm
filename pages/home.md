@@ -39,7 +39,7 @@ hero:
 blocks:
   heading: ''
   sub_heading: ''
-  limit: 6
+  limit: 9
   items:
     - title: 'Dates'
       weight: 1
@@ -76,6 +76,17 @@ blocks:
       url: '/committee'
       description: 'Meet the experts behind the event'
       icon: 'assets/images/icons/icons8-committee-100.png'
-
-
+      
+    - title: 'Sponsorship'
+      weight: 7
+      url: '/assets/ICDM_Prospectus.pdf'
+      description: 'Become a sponsor and support the conference'
+      icon: 'assets/images/icons/icons8-sponsorship-100.png'
+      
+    - title: 'Call for Student Travel Awards'
+      weight: 8
+      url: '/call_for_travel_awards'
+      description: 'Find out how to apply for student travel grants'
+      icon: 'assets/images/icons/icons8-travel-awards-100.png'
 ---
+
