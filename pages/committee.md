@@ -146,7 +146,7 @@ grid:
           description: "Harvard, USA"
           thumbnail: "/assets/images/team/min.png"
 
-    - name: Web Chair
+    - name: Online Chair
       people:
         - title: 'Kirill Fedyanin'
           weight: 1

@@ -3,7 +3,7 @@ layout: page
 title: "Registration"
 ---
 
-For each accepted paper, at least one author is required to pay a full author registration and attend the conference to present their work on site. Early-bird Registration Fee due September 27，2024 for Non-Authors, or Co-Authors not registering a paper 
+For each accepted paper, at least one author is required to pay a full author registration and attend the conference to present their work on site. Early-bird Registration Fee due September 27 for Non-Authors, or Co-Authors not registering a paper 
 
 
 ## Registration Fees
