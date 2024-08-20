@@ -145,6 +145,17 @@ grid:
           weight: 3
           description: "Harvard, USA"
           thumbnail: "/assets/images/team/min.png"
+    - name: Women Forum Co-Chairs
+      people:
+        - title: 'Xiaochun Yang'
+          weight: 1
+          description: "NEU, China"
+          thumbnail: "/assets/images/team/xiaochun.png"
+          
+        - title: 'Xiaofeng Gao'
+          weight: 2
+          description: "SJTU, China"
+          thumbnail: "/assets/images/team/xiaofeng.jpg"
 
     - name: Online Chair
       people:

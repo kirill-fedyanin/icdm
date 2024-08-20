@@ -36,7 +36,7 @@ All fees in US dollars
 | Lifetime Member      | 440 |	
 
 <br/>
-**Late registration due October 11, 2024**
+**Late/On-Site registration**
 
 | Type                 | Fee   |
 |----------------------|-------|
@@ -47,25 +47,3 @@ All fees in US dollars
 | Lifetime Member      | 635   |	
 
 
-### Workshop or Co-Budgeted Conference
-
-**Early-Bird due September 27，2024**
-
-| Type                           | Fee |
-|--------------------------------|-----|
-| Half-Day, Member               | 490 | 
-| Half-Day, Non-Member           | 590 |
-| Half-Day, Student & Member     | 345 |
-| Half-Day, Student & Non-Member | 415 |	
-
-
-
-<br/>
-**Late registration due October 11, 2024**
-
-| Type                           | Fee |
-|--------------------------------|-----|
-| Half-Day, Member               | 585 | 
-| Half-Day, Non-Member           | 705 |
-| Half-Day, Student & Member     | 410 |
-| Half-Day, Student & Non-Member | 495 |	

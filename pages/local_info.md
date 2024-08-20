@@ -23,9 +23,12 @@ Welcome to Abu Dhabi - The Host City for ICDM 2024
 Abu Dhabi, the capital of the United Arab Emirates, offers a unique blend of rich cultural heritage and cutting-edge modernity. As you prepare for the International Conference on Data Mining (ICDM) in December 2024, we invite you to explore the marvels of this dynamic city.
 
 ### Practical Information:
+
 - Weather in December: Typically warm and sunny, with temperatures ranging from 17°C to 26°C (62°F to 79°F).
-- Transportation: taxi in Abu Dhabi is the most reliable option to get around the city. Most popular are careem, abu dhabi taxi and uber. You can also take Abu Dhabi taxi from street (they use taxi meter, and you can pay with a card). 
-- You can fly to Abu-Dhabi international airport (AUH). As an option, you can fly to dubai (DXB), taxi from there takes approximately 1.5 hours and $100.
+- Transportation: Taxis in Abu Dhabi are the most reliable option to get around the city. The most popular services are Careem, Abu Dhabi Taxi, and Uber. You can also hail a gray Abu Dhabi taxi cab from the street (they use taxi meters, and you can pay with a card).
+- Airport options:
+  1. You can fly directly to Abu Dhabi International Airport (AUH).
+  2. Alternatively, you can fly to Dubai (DXB) and take a taxi from there; it would take approximately 1.5 hours and cost around $100.
  
 ### Hotels
 For hotels near the venue with special rates for ICDM attendees, you can use this link: [https://HotelMap.com/MFANG](https://HotelMap.com/MFANG). We have reserved a number of rooms for ICDM participants, but they are limited, so it's better to proceed with booking in advance.

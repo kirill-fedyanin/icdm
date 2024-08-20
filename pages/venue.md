@@ -29,4 +29,4 @@ ADNEC Group, a subsidiary of “ADQ”, is a contributor to the development of t
 
 [Show on map](https://maps.app.goo.gl/M8cP7M9ReAHq5NH6A)
 
-You can book the hotels near the venue with special price for ICDM by this link https://HotelMap.com/MFANG
+You can book the hotels near the venue with special price for ICDM participants by this link [https://HotelMap.com/MFANG](https://HotelMap.com/MFANG)
