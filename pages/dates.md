@@ -19,6 +19,10 @@ title: "Important dates"
 - Camera-ready deadline and copyright form: October 11, 2024
 - Workshops date: December 9, 2024
 
+## Demo dates
+- Paper submission: October 04, 2024
+- Notification to authors: October 25, 2024
+
 ## Travel awards
 - [Travel awards](/call_for_travel_awards) application deadline: October 24, 2024
 

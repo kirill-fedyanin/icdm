@@ -130,7 +130,12 @@ grid:
           weight: 1
           description: "Zayed University, UAE"
           thumbnail: "/assets/images/team/eleana.png"
+        - title: 'Abderrahmane MAARADJI'
+          weight: 1
+          description: "ECE, France"
+          thumbnail: "/assets/images/team/abderrahmane.jpg"
           
+
     - name:  Publicity Co-Chairs
       people:
         - title: 'Antonio De Domenico'

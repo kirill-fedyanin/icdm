@@ -65,6 +65,12 @@ blocks:
       description: 'Tell about new exciting directions of research'
       icon: 'assets/images/icons/icons8-tuition-100.png'
 
+    - title: 'Call for demo'
+      weight: 3
+      url: '/call_for_demo'
+      description: 'Showcase your innovative and practical systems.'
+      icon: 'assets/images/icons/icons8-prototype-100.png'
+      
     - title: 'Registration'
       weight: 4
       url: '/registration'

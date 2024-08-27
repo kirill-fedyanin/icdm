@@ -23,6 +23,8 @@ main:
         url: /call_for_workshops
       - name: 'Call for tutorials'
         url: /call_for_tutorials
+      - name: 'Call for demo'
+        url: /call_for_demo
       - name: 'Sponsorship Prospectus'
         url: '/assets/ICDM_Prospectus.pdf'
       - name: 'Call for travel awards'
