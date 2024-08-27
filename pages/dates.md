@@ -21,3 +21,7 @@ title: "Important dates"
 
 ## Travel awards
 - [Travel awards](/call_for_travel_awards) application deadline: October 24, 2024
+
+## Tutorial proposal dates
+- [Tutorial proposal](/call_for_tutorials) due: 04 October 2024
+- Notification: 25 October 2024

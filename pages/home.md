@@ -39,7 +39,7 @@ hero:
 blocks:
   heading: ''
   sub_heading: ''
-  limit: 9
+  limit: 12
   items:
     - title: 'Dates'
       weight: 1
@@ -58,6 +58,12 @@ blocks:
       url: '/call_for_workshops'
       description: 'We warmly invite proposals for workshops on current and emerging topics in data mining'
       icon: 'assets/images/icons/icons8-workshop-100.png'
+        
+    - title: 'Call for tutorials'
+      weight: 3
+      url: '/call_for_tutorials'
+      description: 'Tell about new exciting directions of research'
+      icon: 'assets/images/icons/icons8-tuition-100.png'
 
     - title: 'Registration'
       weight: 4
@@ -88,5 +94,11 @@ blocks:
       url: '/call_for_travel_awards'
       description: 'Find out how to apply for student travel grants'
       icon: 'assets/images/icons/icons8-travel-awards-100.png'
+
+    - title: 'Call for Female Scholar Awards'
+      weight: 9
+      url: '/call_for_female_scholar_award'
+      description: "Let's celebrate your achievements together"
+      icon: 'assets/images/icons/icons8-scholar-100.png'
 ---
 
