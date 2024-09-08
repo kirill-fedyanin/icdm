@@ -5,6 +5,12 @@ title: "Registration"
 
 For each accepted paper, at least one author is required to pay a full author registration and attend the conference to present their work on site. Early-bird Registration Fee due September 27 for Non-Authors, or Co-Authors not registering a paper 
 
+## Registration link
+To register, please proceed to [https://cvent.me/7qxN9r](https://cvent.me/7qxN9r)
+
+
+Please email [ieeecs-reg+ICDM@computer.org](mailto:ieeecs-reg+ICDM@computer.org) if you need registration assistance. For questions regarding author submissions, please contact Dr. Mingming Gong at [mingming.gong@mbzuai.ac.ae](mingming.gong@mbzuai.ac.ae). For visa Information, please contact Dr. Maxim Panov at [maxim.panov@mbzuai.ac.ae](maxim.panov@mbzuai.ac.ae).
+
 
 ## Registration Fees
 
@@ -12,7 +18,7 @@ All fees in US dollars
 
 ### Author Registration 
 
-**Registration due October 11, 2024**
+**Registration due October 15, 2024**
 
 | Type                 | Fee   |
 |----------------------|-------|

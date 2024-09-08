@@ -25,8 +25,13 @@ hero:
   height: "600px"
 ---
 
-ADNEC Group, a subsidiary of “ADQ”, is a contributor to the development of the business tourism sector in Abu Dhabi and is playing a vital role in the emirate’s ambition to become a leading destination for business meetings and events to achieve its long-term goals of economic growth and diversification. Abu Dhabi is truly a one-of-a-kind destination, unlike anywhere else. The city is vibrant, modern and is known for being the safest city in the world. It’s ideally positioned so that half of the world’s population is within a five hour flight. Abu Dhabi’s year round sunshine along with its growing knowledge economy and numerous attractions are all enabling the city to emerge as a popular business hub and a favoured spot for tourists.
+## General information
+ADNEC Centre Abu Dhabi is a multi-award-winning venue offering organisers of exhibitions, conferences and live events a total space of 153,678 square metres of indoor and outdoor event space with interconnected column-free halls, an Atrium and Concourse areas. This incorporates a multi-functional, 6,000 seat conference centre facility, two large conference halls that can seat 1,600 people combined and 21 meeting rooms ranging from 20 to 240 delegates. In addition, the venue comprises of 11 exhibition halls offering a total of 55,000m², a 10,000m² Marina Hall and a purpose-built banquet facility that can seat 700 people in a dinner setting.  The venue also boasts a range of restaurants, cafés, shops, on-site hotels and business facilities as well as outdoor event spaces and the stunning Waterfront Quayside.
 
+ 
+## How to get to the venue
 [Show on map](https://maps.app.goo.gl/M8cP7M9ReAHq5NH6A)
+
+## Hotels nearby
 
 You can book the hotels near the venue with special price for ICDM participants by this link [https://HotelMap.com/MFANG](https://HotelMap.com/MFANG)
