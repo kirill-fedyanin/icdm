@@ -18,7 +18,9 @@ Rule of applicants are as follows:
 - An applicant must has published ICDM papers before. The winner of the ICDM Female Student Award must be a student at the time of the award (not graduated), and the winner of the ICDM Young Female Scholar Award must have received her doctorate within the past ten years (regardless of age, graduation certificate is required). 
 - Awards will be presented at the conference Banquet, and the winners must be onsite to receive the award in the Banquet (the nomination requires a commitment to attend the conference). 
 
-Please fill-in the [Nomination Form](/assets/NominationForm2024.docx) and contact Ms. Ada Gong  (email:[gongsiyao@sc.neu.edu.cn](mailto:gongsiyao@sc.neu.edu.cn)) **before Sept. 16th, 2024**, if you want to be nominated for this award. 
+Please fill-in the [Nomination Form](/assets/NominationForm2024.docx) and contact Ms. Ada Gong  (email: [gongsy@swc.neu.edu.cn](gongsy@swc.neu.edu.cn)) **before Oct.7th, 2024**, if you want to be nominated for this award. 
+
+
 
 **Women Forum Co-Chairs**
 - Prof. Xiaochun Yang, Northeastern University, China 

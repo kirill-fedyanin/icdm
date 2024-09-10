@@ -9,7 +9,11 @@ For each accepted paper, at least one author is required to pay a full author re
 To register, please proceed to [https://cvent.me/7qxN9r](https://cvent.me/7qxN9r)
 
 
-Please email [ieeecs-reg+ICDM@computer.org](mailto:ieeecs-reg+ICDM@computer.org) if you need registration assistance. For questions regarding author submissions, please contact Dr. Mingming Gong at [mingming.gong@mbzuai.ac.ae](mingming.gong@mbzuai.ac.ae). For visa Information, please contact Dr. Maxim Panov at [maxim.panov@mbzuai.ac.ae](maxim.panov@mbzuai.ac.ae).
+Please email [ieeecs-reg+ICDM@computer.org](mailto:ieeecs-reg+ICDM@computer.org) if you need registration assistance. 
+
+For the paper submission, please refer to [instructions for authors](/instructions_for_authors). For questions regarding author submissions, please contact Dr. Mingming Gong at [mingming.gong@mbzuai.ac.ae](mingming.gong@mbzuai.ac.ae). 
+
+For visa Information, please contact Dr. Maxim Panov at [maxim.panov@mbzuai.ac.ae](maxim.panov@mbzuai.ac.ae).
 
 
 ## Registration Fees

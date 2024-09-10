@@ -6,8 +6,10 @@ main:
   - name: Workshops
     url: /workshops
   - name: Attending
-    url: /venue
+    url: /instructions_for_authors
     child:
+      - name: 'Instructions for authors'
+        url: /instructions_for_authors
       - name: 'Venue'
         url: /venue
       - name: 'Registration'

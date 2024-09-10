@@ -29,3 +29,6 @@ title: "Important dates"
 ## Tutorial proposal dates
 - [Tutorial proposal](/call_for_tutorials) due: 04 October 2024
 - Notification: 25 October 2024
+
+## Female scholar award
+- Application deadline for [female scholar and student award](/call_for_female_scholar_award/) is October 7th
