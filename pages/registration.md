@@ -28,8 +28,6 @@ All fees in US dollars
 |----------------------|-------|
 | IEEE Member          | 950   |
 | Non-Member 	        | 1,140 | 
-| Student & Member     | 	525  |
-| Student & Non-Member | 	630  |
 | Lifetime Member      | 	525  |
 
 
