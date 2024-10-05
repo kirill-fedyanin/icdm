@@ -106,5 +106,11 @@ blocks:
       url: '/call_for_female_scholar_award'
       description: "Let's celebrate your achievements together"
       icon: 'assets/images/icons/icons8-scholar-100.png'
+      
+    - title: 'Call for ICDM Tao Li award'
+      weight: 9
+      url: 'https://www.cse.fau.edu/~xqzhu/taoliaward/icdm-tao-li-award.html'
+      description: "Reward for excellent early career researchers"
+      icon: 'assets/images/icons/icons8-award-100.png'
 ---
 
