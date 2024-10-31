@@ -3,7 +3,7 @@ layout: page
 title: "Registration"
 ---
 
-For each accepted paper, at least one author is required to pay a full author registration and attend the conference to present their work on site. Early-bird Registration Fee due September 27 for Non-Authors, or Co-Authors not registering a paper 
+<big>**For each accepted paper, at least one author is required to pay a full author registration and attend the conference to present their work on site. Each conference or workshop paper requires separate full registration.**</big> 
 
 ## Registration link
 To register, please proceed to [https://cvent.me/7qxN9r](https://cvent.me/7qxN9r)

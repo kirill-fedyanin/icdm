@@ -3,8 +3,15 @@ main:
     url: /
   - name: Dates
     url: /dates
-  - name: Workshops
-    url: /workshops
+  - name: Programme
+    url: /accepted_papers
+    child:
+      - name: 'Accepted papers'
+        url: /accepted_papers
+      - name: Workshops
+        url: /workshops
+      - name: Tutorials
+        url: /tutorials
   - name: Attending
     url: /instructions_for_authors
     child:
@@ -35,13 +42,5 @@ main:
         url: /call_for_female_scholar_award
       - name: 'Call for ICDM Tao Li award'
         url: 'https://www.cse.fau.edu/~xqzhu/taoliaward/icdm-tao-li-award.html'
-  - name: Programme
-    url: /accepted_papers
-    child:
-      - name: 'Accepted papers'
-        url: /accepted_papers
   - name: Committee
     url: /committee
-
-
-

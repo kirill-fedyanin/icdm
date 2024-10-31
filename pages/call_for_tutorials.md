@@ -18,8 +18,8 @@ A tutorial proposal should be formatted into the following sections:
  - Rationale: Why do you believe this is an interesting and significant subject for the data mining and machine learning community at large? Is this tutorial or a similar one presented by the same or some authors in some other venues?
  - Content details: An outline of the tutorial in the form of a bulleted list with references and estimates for the time that will be devoted to each subject (up to 1 page).
  - Target audience and prerequisites (up to 100 words): From which areas do you expect potential participants to come? What prior knowledge, if any, do you expect from the audience? What will the participants learn? How many participants do you expect?
- - Relevance and rationale of presenting the tutorial at ICDM 2022 (up to 200 words).
- - A list of forums and their time, location, and the number of attendees (if available) if the tutorial or a similar/highly related tutorial has been presented by the same author(s) before, and a short description highlighting the similarity/difference between those and the one proposed for ICDM 2022 (up to 100 words for each entry).
+ - Relevance and rationale of presenting the tutorial at ICDM 2024 (up to 200 words).
+ - A list of forums and their time, location, and the number of attendees (if available) if the tutorial or a similar/highly related tutorial has been presented by the same author(s) before, and a short description highlighting the similarity/difference between those and the one proposed for ICDM 2024 (up to 100 words for each entry).
  - A list of tutorials on the similar/highly related topics given by others, and a short description highlighting the differences between yours and theirs (up to 100 words for each entry).
  - Tutor’s short bio and their expertise related to the tutorial (up to 100 words per tutor).
  - Proposed length of the tutorial: please choose from: 2.5 hours (half-day) and 5 hours (full day). If you are flexible, please indicate in the outline the content that will not be included if a short tutorial is given.
