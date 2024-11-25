@@ -132,7 +132,7 @@ grid:
           thumbnail: "/assets/images/team/eleana.png"
         - title: 'Abderrahmane MAARADJI'
           weight: 1
-          description: "ECE, France"
+          description: "UDST, Qatar"
           thumbnail: "/assets/images/team/abderrahmane.jpg"
           
 
