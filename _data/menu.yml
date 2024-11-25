@@ -3,9 +3,11 @@ main:
     url: /
   - name: Dates
     url: /dates
-  - name: Programme
-    url: /accepted_papers
+  - name: Program
+    url: /program
     child:
+      - name: 'Program'
+        url: /program
       - name: 'Accepted papers'
         url: /accepted_papers
       - name: Workshops

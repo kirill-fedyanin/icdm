@@ -31,7 +31,10 @@ Duration: Half-a-day (2.5 hrs)
 
 ### Uncertain Boundaries: Multidisciplinary Approaches to Copyright Issues in Generative AI
 
-Presenters: Archer Amon, Nhat Hoang, Zichong Wang, Thang Viet Doan, Wenbin Zhang
+Presenters: Archer Amon, Zichong Wang, Zhipeng Yin, Wenbin Zhang
+
+Tutorial page: [https://icdm2024-tutorial.github.io/index.html](https://icdm2024-tutorial.github.io/index.html)
+
 
 Abstract: As generative AI systems become more prevalent in creative fields, concerns about intellectual property rights have grown, particularly regarding the production of content that closely resembles human-created work. Recent controversies, where AI models have generated near-replicas of copyrighted material, underscore the urgency of reviewing the current copyright framework and developing methods to mitigate infringement risks. To this end, this tutorial offers a comprehensive analysis of these copyright challenges, examining them throughout the AI development life cycle and providing developers with actionable strategies. It begins by discussing the foundational goals and considerations for copyright in generative AI, followed by methods for detecting and assessing potential violations in AI outputs. Next, it introduces techniques to safeguard creative works and datasets from unauthorized replication. The tutorial also covers training methods aimed at minimise the risk of AI models reproducing protected content. Finally, it reviews the state of AI copyright regulation and suggests future research pathways to address existing gaps.
 
