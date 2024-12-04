@@ -46,6 +46,24 @@ blocks:
       url: '/dates'
       description: 'Important dates: submission, registration, conference'
       icon: 'assets/images/icons/icons8-calendar-9-100.png'
+
+    - title: 'Program'
+      weight: 1
+      url: '/program'
+      description: 'The schedule of the conference, workshops, tutorials, and more'
+      icon: 'assets/images/icons/icons8-agenda-100.png'
+
+    - title: 'Venue'
+      weight: 1
+      url: '/venue'
+      description: 'The conference will be held at the Abu Dhabi National Exhibition Centre'
+      icon: 'assets/images/icons/icons8-venue-100.png'
+      
+    - title: 'Organizing Committee'
+      weight: 2
+      url: '/committee'
+      description: 'Meet the experts behind the event'
+      icon: 'assets/images/icons/icons8-committee-100.png'
       
     - title: 'Call for papers'
       weight: 2
@@ -77,18 +95,6 @@ blocks:
       description: 'Find details how to register to the conference'
       icon: 'assets/images/icons/icons8-registration-100.png'
 
-    - title: 'Venue'
-      weight: 5
-      url: '/venue'
-      description: 'Details about conference place'
-      icon: 'assets/images/icons/icons8-venue-100.png'
-
-    - title: 'Organizing Committee'
-      weight: 6
-      url: '/committee'
-      description: 'Meet the experts behind the event'
-      icon: 'assets/images/icons/icons8-committee-100.png'
-      
     - title: 'Sponsorship'
       weight: 7
       url: '/assets/ICDM_Prospectus.pdf'
