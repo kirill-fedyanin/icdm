@@ -1,4 +1,6 @@
 main:
+  - name: "ICDM 2025"
+    url: /icdm_2025
   - name: Home
     url: /
   - name: Dates

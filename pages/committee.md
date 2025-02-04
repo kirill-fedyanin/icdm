@@ -88,12 +88,16 @@ grid:
 
     - name: Workshop Co-Chairs
       people:
-        - title: 'Wassim Hamidouche'
+        - title: 'Yi He'
           weight: 1
+          description: "William&Mary, USA"
+          thumbnail: "/assets/images/team/yi.jpg"
+        - title: 'Wassim Hamidouche'
+          weight: 2
           description: "TII, UAE"
           thumbnail: "/assets/images/team/wassim.png"
         - title: 'Imran Razzak'
-          weight: 2
+          weight: 3
           description: "UNSW, Australia"
           thumbnail: "/assets/images/team/imran.png"
           
